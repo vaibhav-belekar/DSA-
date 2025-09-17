@@ -24,13 +24,13 @@ DSA-/
 
 ### 1. C++ Basics
 
-* [Input / Output](1_cpp_basic/cin.cpp)
-* [Loops](1_cpp_basic/loops.cpp)
+* [CPP BASIC ](1_cpp_basic)
+  
 
 ### 2. Arrays
 
-* [Linear Search](2_ARRAY/linear_search.cpp)
-* [Binary Search](2_ARRAY/binary_search.cpp)
+* [ARRAY](2_ARRAY)
+
 
 *(More topics will be added as I learn them)*
 
