@@ -1,3 +1,4 @@
+// using dutch national flag algorithm leetcode -75
 #include<iostream>
 #include<vector>
 using namespace std ;
