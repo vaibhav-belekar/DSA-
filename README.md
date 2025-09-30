@@ -9,12 +9,12 @@ I upload codes topic-wise as I learn new concepts.
 
 ```
 DSA-/
-├── 1_cpp_basic/        # Basic C++ programs
-├── 2_ARRAY/            # Array problems
-├── 3_LINKED_LIST/      # (Upcoming) Linked list problems
-├── 4_STACK_QUEUE/      # (Upcoming) Stack & Queue
-├── 5_RECURSION/        # (Upcoming) Recursion problems
-├── 6_SORTING/          # (Upcoming) Sorting algorithms
+├── 1_cpp_basic/                 # Basic C++ programs
+├── 2_ARRAY/                     # Array problems
+├── 3_ARRAY(BINARY SEARCH)/      # Binary search all problem
+├── 4_ARRAY(SORTING)/            # LEARN ABOUT ALL SORTING ALGORITHM
+├── 5_RECURSION/                 # (Upcoming) Recursion problems
+├── 6_SORTING/                   # (Upcoming) Sorting algorithms
 └── README.md
 ```
 
